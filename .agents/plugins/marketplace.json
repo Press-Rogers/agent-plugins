@@ -1,0 +1,7 @@
+{
+  "name": "press-rogers-agent-plugins",
+  "interface": {
+    "displayName": "Press Rogers Agent Plugins"
+  },
+  "plugins": []
+}
